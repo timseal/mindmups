@@ -19,7 +19,17 @@
       "ideas": {
         "1": {
           "title": "http://www.labnol.org/internet/host-website-on-google-drive/28178/",
-          "id": 13
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "needs a hack to change the domain name",
+              "id": 19
+            },
+            "2": {
+              "title": "no or limited php",
+              "id": 21
+            }
+          }
         }
       }
     },
@@ -29,7 +39,13 @@
       "ideas": {
         "1": {
           "title": "http://wpmu.org/how-to-automatically-backup-your-wordpress-site-to-google-drive/",
-          "id": 15
+          "id": 15,
+          "ideas": {
+            "1": {
+              "title": "yeah, but probably not this plugin. ",
+              "id": 23
+            }
+          }
         }
       }
     },
@@ -44,6 +60,12 @@
             "style": {
               "background": "#E0E0E0"
             }
+          },
+          "ideas": {
+            "1": {
+              "title": "this is OLD",
+              "id": 17
+            }
           }
         },
         "2": {
@@ -52,6 +74,12 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "looks more like an alternative way of editing the wordpress site itself",
+              "id": 18
             }
           }
         }
@@ -64,6 +92,10 @@
         "1": {
           "title": "http://www.pcworld.com/article/2040322/free-google-drive-tools-youre-not-using-but-should-be-.html",
           "id": 14
+        },
+        "2": {
+          "title": "PDF could be password protected, much easier",
+          "id": 22
         }
       }
     },
@@ -74,6 +106,16 @@
         "1": {
           "title": "http://www.immersionmedia.com/blog/customizing-and-styling-google-forms/",
           "id": 16
+        },
+        "2": {
+          "title": "this plugin might work:",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "http://wordpress.org/plugins/wpgform/",
+              "id": 25
+            }
+          }
         }
       }
     }
